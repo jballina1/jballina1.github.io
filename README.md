@@ -8,7 +8,7 @@ Game developer focused on gameplay programming in Unity and C#.
 
 ### The Legend of Zelda (Unity Recreation)
 
-**[▶ Play / View the project](YOUR_ZELDA_GAME_LINK)** | **[⬇ Download for Windows](https://github.com/jballina1/jballina1.github.io/releases/latest/download/LOZSubmissionGold.zip)**
+**[⬇ Download for Windows](https://github.com/jballina1/jballina1.github.io/releases/latest/download/LOZSubmissionGold.zip)**
 
 <!-- Add a screenshot or GIF here: ![Gameplay](screenshot.png) -->
 
