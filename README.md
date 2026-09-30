@@ -28,12 +28,10 @@ A Unity recreation of The Legend of Zelda, built as part of a team project.
 **Tech used:** Unity, C#, Photopea (sprite art)
 
 **To run:** Download the zip, extract it, and run the `.exe` inside.
-Windows may show a SmartScreen warning because the game is unsigned. Choose "More info" then "Run anyway."
+Choose the exe in WinExe for windows MacExe for Max.
 
 ---
 
 ## Contact
 
 - GitHub: [jballina1](https://github.com/jballina1)
-- Email: your@email.com
-- LinkedIn: your-link-here
