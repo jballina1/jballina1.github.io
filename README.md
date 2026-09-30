@@ -1,6 +1,39 @@
-# Jose Ballina-Loza Coding Portfolio 
-Games:
-Zelda Game link
-I worked on inital prototyping, Final Level cleanup, Bugfixing, Boat and Cannon Mechanic, Old Man room, Player and Weapon Animations, Game Audio, 2D Bow Room and Heath and Damage.
-Technology Used: Photopea for Sprite Art, Unity for Game engine, C# for scripting.
-Download Here: [Download latest](https://github.com/jballina1/jballina1.github.io/releases/latest/download/LOZSubmissionGold.zip)
+# Jose Ballina-Loza | Coding Portfolio
+
+Game developer focused on gameplay programming in Unity and C#.
+
+---
+
+## Games
+
+### The Legend of Zelda (Unity Recreation)
+
+**[▶ Play / View the project](YOUR_ZELDA_GAME_LINK)** | **[⬇ Download for Windows](https://github.com/jballina1/jballina1.github.io/releases/latest/download/LOZSubmissionGold.zip)**
+
+<!-- Add a screenshot or GIF here: ![Gameplay](screenshot.png) -->
+
+A Unity recreation of The Legend of Zelda, built as part of a team project.
+
+**My contributions**
+- Initial prototyping
+- Boat and cannon mechanic
+- Old Man room
+- 2D bow room
+- Health and damage system
+- Player and weapon animations
+- Game audio
+- Final level cleanup
+- Bug fixing
+
+**Tech used:** Unity, C#, Photopea (sprite art)
+
+**To run:** Download the zip, extract it, and run the `.exe` inside.
+Windows may show a SmartScreen warning because the game is unsigned. Choose "More info" then "Run anyway."
+
+---
+
+## Contact
+
+- GitHub: [jballina1](https://github.com/jballina1)
+- Email: your@email.com
+- LinkedIn: your-link-here
