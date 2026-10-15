@@ -9,7 +9,7 @@ Game developer focused on gameplay programming in Unity and C#, with experience 
 
 ### The Legend of Zelda — Unity Recreation
 
-**[⬇ Download The Legend of Zelda for Windows](https://github.com/jballina1/jballina1.github.io/releases/download/Game/LOZSubmissionGold.zip)**
+**[⬇ Download The Legend of Zelda for Windows and Mac](https://github.com/jballina1/jballina1.github.io/releases/download/Game/LOZSubmissionGold.zip)**
 
 A Unity recreation of *The Legend of Zelda*, developed as part of a team project.
 
@@ -36,7 +36,7 @@ A Unity recreation of *The Legend of Zelda*, developed as part of a team project
 
 ### Cromatico — Rapid Prototype
 
-**[⬇ Download Cromatico for Windows](https://github.com/jballina1/jballina1.github.io/releases/download/Cromatico/CromaticoGoldSubmission.zip)**
+**[⬇ Download Cromatico for Windows and Mac](https://github.com/jballina1/jballina1.github.io/releases/download/Cromatico/CromaticoGoldSubmission.zip)**
 
 A color-based puzzle platformer rapid prototype developed in Unity. Players use paint-based mechanics to interact with the environment, solve puzzles, and navigate platforming challenges.
 
