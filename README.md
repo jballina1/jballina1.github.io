@@ -1,3 +1,4 @@
+
 # Jose Ballina-Loza | Coding Portfolio
 
 Game developer focused on gameplay programming in Unity and C#, with experience building gameplay mechanics, player systems, and rapid prototypes.
@@ -8,9 +9,9 @@ Game developer focused on gameplay programming in Unity and C#, with experience 
 
 ### The Legend of Zelda — Unity Recreation
 
-**[⬇ Download / View Release for Windows](https://github.com/jballina1/jballina1.github.io/releases/tag/Game)**
+**[⬇ Download The Legend of Zelda for Windows](https://github.com/jballina1/jballina1.github.io/releases/download/Game/LOZSubmissionGold.zip)**
 
-A Unity recreation of the original *The Legend of Zelda* for the NES, developed as part of a team project.
+A Unity recreation of *The Legend of Zelda*, developed as part of a team project.
 
 **My Contributions**
 - Initial prototyping
@@ -26,32 +27,32 @@ A Unity recreation of the original *The Legend of Zelda* for the NES, developed 
 **Technologies:** Unity, C#, Photopea
 
 **How to Run**
-1. Download the Windows build from the release page above.
+1. Download the ZIP using the link above.
 2. Extract the downloaded ZIP file.
 3. Open the extracted folder.
-4. Run the game's `.exe` file.
+4. Run the included Windows `.exe` file.
 
 ---
 
 ### Cromatico — Rapid Prototype
 
-**[⬇ Download / View Release](https://github.com/jballina1/jballina1.github.io/releases/tag/Cromatico)**
+**[⬇ Download Cromatico for Windows](https://github.com/jballina1/jballina1.github.io/releases/download/Cromatico/CromaticoGoldSubmission.zip)**
 
-A color-based puzzle platformer rapid prototype developed for EECS 494. Players use paint-based color mechanics to interact with the environment, solve puzzles, and navigate platforming challenges.
+A color-based puzzle platformer rapid prototype developed in Unity. Players use paint-based mechanics to interact with the environment, solve puzzles, and navigate platforming challenges.
 
 **Gameplay Features**
-- Paint-based environmental interactions
-- Color-driven puzzle mechanics
-- Platforming and environmental challenges
-- Secret coins for the player to uncover
+- Color-based environmental interactions
+- Puzzle-solving through paint mechanics
+- Platforming challenges
+- Environmental strategies for avoiding enemies
 
-**Technologies:** Unity, C#, Photopea, Audacity 
+**Technologies:** Unity, C#
 
 **How to Run**
-1. Open the Cromatico release page above.
-2. Download the appropriate game build from the release assets.
-3. Extract the ZIP file.
-4. Run the included executable.
+1. Download the ZIP using the link above.
+2. Extract the downloaded ZIP file.
+3. Open the extracted folder.
+4. Run the included Windows `.exe` file.
 
 ---
 
