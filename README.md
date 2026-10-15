@@ -45,8 +45,9 @@ A color-based puzzle platformer rapid prototype developed in Unity. Players use 
 - Puzzle-solving through paint mechanics
 - Platforming challenges
 - Environmental strategies for avoiding enemies
+- Secret coins for the player to collect
 
-**Technologies:** Unity, C#
+**Technologies:** Unity, C#, Photopea, Audacity
 
 **How to Run**
 1. Download the ZIP using the link above.
